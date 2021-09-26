@@ -1,2 +1,2 @@
 # ZigZagTest
- Testing replica of the ZigZag mobile Game
+ Testing replica of the ZigZag mobile Game - Archived.
